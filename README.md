@@ -1,6 +1,6 @@
 # Windows 10/11 Setup Automation
 
-A PowerShell script to automate setup and configuration for Windows 10/11 systems — designed for IT support roles.
+A PowerShell script to automate setup and configuration for Windows 10/11 systems — designed for IT support.
 
 ## ✅ Features
 
