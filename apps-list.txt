@@ -1,0 +1,8 @@
+googlechrome  
+notepadplusplus  
+7zip  
+putty  
+vlc  
+git  
+powertoys  
+anydesk  
